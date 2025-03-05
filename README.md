@@ -54,4 +54,5 @@ This project involves cleaning and standardizing a dataset containing informatio
 🔹 The cleaned dataset can be used for further analysis and reporting.  
 
 **ℹ️ Source**
-*Alexthedataanalyst youtube training *[find it here(https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)]
+*Alex The Data Analyst YouTube Training* – [Find it here](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
+
